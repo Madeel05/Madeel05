@@ -60,7 +60,7 @@ Encrypted patient search system with AJAX filtering
 
 - GitHub: https://github.com/Madeel05
 - LinkedIn: https://www.linkedin.com/in/muhammad-adeel-40a95227a/
-- Portfolio: [YOUR_PORTFOLIO](https://react-portfolio-ivory-chi.vercel.app/)
+- Portfolio: https://react-portfolio-ivory-chi.vercel.app/
 
 ---
 
