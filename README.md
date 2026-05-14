@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋, I'm Adeel
 
-<!--
-**Madeel05/Madeel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PHP & Laravel Developer
 
-Here are some ideas to get you started:
+I build modern web applications using Laravel, PHP, MySQL, Tailwind CSS, and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on Laravel projects
+- 🌱 Learning Machine Learning & Python
+- 💳 Experience with Stripe, Xero API, Payment Systems
+- ⚡ Love building admin panels & SaaS apps
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- PHP
+- Laravel
+- CodeIgniter
+- MySQL
+- REST APIs
+
+### Frontend
+- Tailwind CSS
+- Bootstrap
+- JavaScript
+- jQuery
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 💳 Payment Gateway Integration
+Stripe Elements integration with Laravel & CodeIgniter
+
+### 👨‍⚕️ Patient Management System
+Encrypted patient search system with AJAX filtering
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+
+---
+
+⭐ Thanks for visiting my profile!
