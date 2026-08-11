@@ -53,9 +53,9 @@ Encrypted patient search system with AJAX filtering
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madeel05&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madeel05&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeel05&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeel05&layout=compact&theme=radical&hide_border=true)
 
 ---
 
